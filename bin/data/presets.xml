@@ -1,0 +1,245 @@
+<preset name="/preset/select/1/1">
+    <data address="/audio/gain" value="12.833333"></data>
+    <data address="/background/alpha/base" value="0.040997"></data>
+    <data address="/background/alpha/variation" value="0.000000"></data>
+    <data address="/bloom/strength/base" value="0.628617"></data>
+    <data address="/bloom/threshold/base" value="0.323151"></data>
+    <data address="/camera/fnumber/base" value="1.923633"></data>
+    <data address="/camera/focallength/base" value="183.408356"></data>
+    <data address="/camera/focusplane/base" value="539.477478"></data>
+    <data address="/camera/specular/base" value="12.833333"></data>
+    <data address="/compo/chromaticaberration/base" value="0.166768"></data>
+    <data address="/compo/chromaticaberration/variation" value="0.051447"></data>
+    <data address="/compo/exposure/base" value="5.064309"></data>
+    <data address="/compo/exposure/variation" value="0.446945"></data>
+    <data address="/compo/noise/base" value="0.200965"></data>
+    <data address="/compo/noise/variation" value="0.000000"></data>
+    <data address="/compo/overallalpha" value="255.000000"></data>
+    <data address="/compo/vignette/power/base" value="3.600000"></data>
+    <data address="/compo/vignette/radius/base" value="403.536987"></data>
+</preset>
+<preset name="/preset/select/1/2">
+    <data address="/bloom/strength" value="0.440199"></data>
+    <data address="/bloom/threshold" value="0.456811"></data>
+    <data address="/camera/fnumber" value="3.141196"></data>
+    <data address="/camera/focallength" value="234.418610"></data>
+    <data address="/camera/focusplane" value="2832.659424"></data>
+    <data address="/compo/chromaticaberration" value="0.285930"></data>
+    <data address="/compo/exposure" value="21.677742"></data>
+    <data address="/compo/noise" value="0.589701"></data>
+    <data address="/compo/vignette/power" value="11.162791"></data>
+    <data address="/compo/vignette/radius" value="541.528198"></data>
+</preset>
+<preset name="/preset/select/1/3">
+    <data address="/bloom/strength" value="0.332226"></data>
+    <data address="/bloom/threshold" value="0.031561"></data>
+    <data address="/camera/fnumber" value="1.400000"></data>
+    <data address="/camera/focallength" value="99.534882"></data>
+    <data address="/camera/focusplane" value="1420.981689"></data>
+    <data address="/compo/chromaticaberration" value="0.111744"></data>
+    <data address="/compo/exposure" value="2.574751"></data>
+    <data address="/compo/noise" value="0.122924"></data>
+    <data address="/compo/vignette/power" value="4.983389"></data>
+    <data address="/compo/vignette/radius" value="503.322235"></data>
+</preset>
+<preset name="/preset/select/1/6">
+    <data address="/audio/gain" value="12.833333"></data>
+    <data address="/background/alpha/base" value="0.040997"></data>
+    <data address="/background/alpha/variation" value="0.000000"></data>
+    <data address="/bloom/strength/base" value="0.786174"></data>
+    <data address="/bloom/threshold/base" value="0.061093"></data>
+    <data address="/camera/fnumber/base" value="1.923633"></data>
+    <data address="/camera/focallength/base" value="232.475891"></data>
+    <data address="/camera/focusplane/base" value="274.257233"></data>
+    <data address="/camera/specular/base" value="12.833333"></data>
+    <data address="/compo/chromaticaberration/base" value="0.211672"></data>
+    <data address="/compo/chromaticaberration/variation" value="0.078778"></data>
+    <data address="/compo/exposure/base" value="7.797428"></data>
+    <data address="/compo/exposure/variation" value="0.167203"></data>
+    <data address="/compo/noise/base" value="0.229904"></data>
+    <data address="/compo/noise/variation" value="0.000000"></data>
+    <data address="/compo/overallalpha" value="255.000000"></data>
+    <data address="/compo/vignette/power/base" value="3.600000"></data>
+    <data address="/compo/vignette/radius/base" value="430.868164"></data>
+</preset>
+<preset name="/preset/select/2/1">
+    <data address="/bloom/strength" value="0.566445"></data>
+    <data address="/bloom/threshold" value="0.031561"></data>
+    <data address="/camera/fnumber" value="1.400000"></data>
+    <data address="/camera/focallength" value="99.534882"></data>
+    <data address="/camera/focusplane" value="1420.981689"></data>
+    <data address="/compo/chromaticaberration" value="0.111744"></data>
+    <data address="/compo/exposure" value="5.980067"></data>
+    <data address="/compo/noise" value="0.254153"></data>
+    <data address="/compo/vignette/power" value="4.983389"></data>
+    <data address="/compo/vignette/radius" value="503.322235"></data>
+</preset>
+<preset name="/preset/select/2/3">
+    <data address="/bloom/strength" value="0.200000"></data>
+    <data address="/bloom/threshold" value="0.300000"></data>
+    <data address="/camera/fnumber" value="1.400000"></data>
+    <data address="/camera/focallength" value="50.000000"></data>
+    <data address="/camera/focusplane" value="1999.999878"></data>
+    <data address="/compo/chromaticaberration" value="0.100000"></data>
+    <data address="/compo/exposure" value="2.000000"></data>
+    <data address="/compo/noise" value="0.853821"></data>
+    <data address="/compo/vignette/power" value="3.000000"></data>
+    <data address="/compo/vignette/radius" value="512.000000"></data>
+</preset>
+<preset name="/preset/select/3/3">
+    <data address="/bloom/strength" value="0.200000"></data>
+    <data address="/bloom/threshold" value="0.300000"></data>
+    <data address="/camera/fnumber" value="1.400000"></data>
+    <data address="/camera/focallength" value="50.000000"></data>
+    <data address="/camera/focusplane" value="1999.999878"></data>
+    <data address="/compo/chromaticaberration" value="0.100000"></data>
+    <data address="/compo/exposure" value="41.777409"></data>
+    <data address="/compo/noise" value="0.089701"></data>
+    <data address="/compo/vignette/power" value="3.000000"></data>
+    <data address="/compo/vignette/radius" value="512.000000"></data>
+</preset>
+<preset name="/scene/0">
+    <data address="/audio/gain" value="12.833333"></data>
+    <data address="/background/alpha/base" value="0.040997"></data>
+    <data address="/background/alpha/variation" value="0.000000"></data>
+    <data address="/bloom/strength/base" value="0.580386"></data>
+    <data address="/bloom/threshold/base" value="0.061093"></data>
+    <data address="/camera/fnumber/base" value="1.923633"></data>
+    <data address="/camera/focallength/base" value="217.620575"></data>
+    <data address="/camera/focusplane/base" value="515.366577"></data>
+    <data address="/camera/specular/base" value="12.833333"></data>
+    <data address="/compo/chromaticaberration/base" value="0.095080"></data>
+    <data address="/compo/chromaticaberration/variation" value="0.078778"></data>
+    <data address="/compo/exposure/base" value="7.797428"></data>
+    <data address="/compo/exposure/variation" value="0.167203"></data>
+    <data address="/compo/noise/base" value="0.229904"></data>
+    <data address="/compo/noise/variation" value="0.000000"></data>
+    <data address="/compo/overallalpha" value="255.000000"></data>
+    <data address="/compo/vignette/power/base" value="3.600000"></data>
+    <data address="/compo/vignette/radius/base" value="403.536987"></data>
+</preset>
+<preset name="/scene/1">
+    <data address="/audio/gain" value="12.833333"></data>
+    <data address="/background/alpha/base" value="0.040997"></data>
+    <data address="/background/alpha/variation" value="0.000000"></data>
+    <data address="/bloom/strength/base" value="0.580386"></data>
+    <data address="/bloom/threshold/base" value="0.061093"></data>
+    <data address="/camera/fnumber/base" value="1.923633"></data>
+    <data address="/camera/focallength/base" value="220.321533"></data>
+    <data address="/camera/focusplane/base" value="515.366577"></data>
+    <data address="/camera/specular/base" value="12.833333"></data>
+    <data address="/compo/chromaticaberration/base" value="0.095080"></data>
+    <data address="/compo/chromaticaberration/variation" value="0.078778"></data>
+    <data address="/compo/exposure/base" value="7.797428"></data>
+    <data address="/compo/exposure/variation" value="0.167203"></data>
+    <data address="/compo/noise/base" value="0.229904"></data>
+    <data address="/compo/noise/variation" value="0.000000"></data>
+    <data address="/compo/overallalpha" value="255.000000"></data>
+    <data address="/compo/vignette/power/base" value="3.600000"></data>
+    <data address="/compo/vignette/radius/base" value="403.536987"></data>
+</preset>
+<preset name="_scene0">
+    <data address="/audio/gain" value="12.833333"></data>
+    <data address="/background/alpha/base" value="0.073955"></data>
+    <data address="/background/alpha/variation" value="0.003537"></data>
+    <data address="/bloom/strength/base" value="0.363344"></data>
+    <data address="/bloom/threshold/base" value="0.062701"></data>
+    <data address="/camera/fnumber/base" value="5.186976"></data>
+    <data address="/camera/focallength/base" value="243.729904"></data>
+    <data address="/camera/focusplane/base" value="997.585205"></data>
+    <data address="/camera/specular/base" value="6.430868"></data>
+    <data address="/compo/chromaticaberration/base" value="0.123441"></data>
+    <data address="/compo/chromaticaberration/variation" value="0.072347"></data>
+    <data address="/compo/exposure/base" value="8.681672"></data>
+    <data address="/compo/exposure/variation" value="0.061093"></data>
+    <data address="/compo/kaleidoscope" value="0.000000"></data>
+    <data address="/compo/noise/base" value="0.332797"></data>
+    <data address="/compo/noise/variation" value="0.225080"></data>
+    <data address="/compo/overallalpha" value="255.000000"></data>
+    <data address="/compo/vignette/power/base" value="7.652733"></data>
+    <data address="/compo/vignette/radius/base" value="419.614136"></data>
+</preset>
+<preset name="_scene1">
+    <data address="/audio/gain" value="12.833333"></data>
+    <data address="/background/alpha/base" value="0.052289"></data>
+    <data address="/background/alpha/variation" value="0.000045"></data>
+    <data address="/bloom/strength/base" value="0.817532"></data>
+    <data address="/bloom/threshold/base" value="0.104429"></data>
+    <data address="/camera/fnumber/base" value="2.498301"></data>
+    <data address="/camera/focallength/base" value="226.204346"></data>
+    <data address="/camera/focusplane/base" value="500.164581"></data>
+    <data address="/camera/specular/base" value="12.208521"></data>
+    <data address="/compo/chromaticaberration/base" value="0.135236"></data>
+    <data address="/compo/chromaticaberration/variation" value="0.075521"></data>
+    <data address="/compo/exposure/base" value="1.459606"></data>
+    <data address="/compo/exposure/variation" value="0.166265"></data>
+    <data address="/compo/kaleidoscope" value="0.205428"></data>
+    <data address="/compo/noise/base" value="0.324863"></data>
+    <data address="/compo/noise/variation" value="0.002901"></data>
+    <data address="/compo/overallalpha" value="245.177994"></data>
+    <data address="/compo/vignette/power/base" value="3.603525"></data>
+    <data address="/compo/vignette/radius/base" value="486.697693"></data>
+</preset>
+<preset name="_scene2">
+    <data address="/audio/gain" value="14.610389"></data>
+    <data address="/background/alpha/base" value="0.108521"></data>
+    <data address="/background/alpha/variation" value="0.006431"></data>
+    <data address="/bloom/strength/base" value="0.898714"></data>
+    <data address="/bloom/threshold/base" value="0.012862"></data>
+    <data address="/camera/fnumber/base" value="2.339550"></data>
+    <data address="/camera/focallength/base" value="175.305481"></data>
+    <data address="/camera/focusplane/base" value="1118.139893"></data>
+    <data address="/camera/specular/base" value="91.479095"></data>
+    <data address="/compo/chromaticaberration/base" value="0.087990"></data>
+    <data address="/compo/chromaticaberration/variation" value="0.077170"></data>
+    <data address="/compo/exposure/base" value="1.045016"></data>
+    <data address="/compo/exposure/variation" value="0.143087"></data>
+    <data address="/compo/kaleidoscope" value="0.000000"></data>
+    <data address="/compo/noise/base" value="0.540193"></data>
+    <data address="/compo/noise/variation" value="0.490354"></data>
+    <data address="/compo/overallalpha" value="216.873001"></data>
+    <data address="/compo/vignette/power/base" value="3.311897"></data>
+    <data address="/compo/vignette/radius/base" value="376.205811"></data>
+</preset>
+<preset name="_scene3">
+    <data address="/audio/gain" value="12.445888"></data>
+    <data address="/background/alpha/base" value="0.022508"></data>
+    <data address="/background/alpha/variation" value="0.000000"></data>
+    <data address="/bloom/strength/base" value="0.245981"></data>
+    <data address="/bloom/threshold/base" value="0.061093"></data>
+    <data address="/camera/fnumber/base" value="1.923633"></data>
+    <data address="/camera/focallength/base" value="284.244354"></data>
+    <data address="/camera/focusplane/base" value="2460.315186"></data>
+    <data address="/camera/specular/base" value="12.861736"></data>
+    <data address="/compo/chromaticaberration/base" value="0.131318"></data>
+    <data address="/compo/chromaticaberration/variation" value="0.200965"></data>
+    <data address="/compo/exposure/base" value="5.868167"></data>
+    <data address="/compo/exposure/variation" value="0.064309"></data>
+    <data address="/compo/kaleidoscope" value="0.000000"></data>
+    <data address="/compo/noise/base" value="0.591640"></data>
+    <data address="/compo/noise/variation" value="0.000000"></data>
+    <data address="/compo/overallalpha" value="255.000000"></data>
+    <data address="/compo/vignette/power/base" value="4.372991"></data>
+    <data address="/compo/vignette/radius/base" value="466.237946"></data>
+</preset>
+<preset name="_scene4">
+    <data address="/audio/gain" value="12.833333"></data>
+    <data address="/background/alpha/base" value="0.047428"></data>
+    <data address="/background/alpha/variation" value="0.003537"></data>
+    <data address="/bloom/strength/base" value="0.363344"></data>
+    <data address="/bloom/threshold/base" value="0.062701"></data>
+    <data address="/camera/fnumber/base" value="5.186976"></data>
+    <data address="/camera/focallength/base" value="243.729904"></data>
+    <data address="/camera/focusplane/base" value="507.329590"></data>
+    <data address="/camera/specular/base" value="6.430868"></data>
+    <data address="/compo/chromaticaberration/base" value="0.123441"></data>
+    <data address="/compo/chromaticaberration/variation" value="0.072347"></data>
+    <data address="/compo/exposure/base" value="8.681672"></data>
+    <data address="/compo/exposure/variation" value="0.061093"></data>
+    <data address="/compo/kaleidoscope" value="0.000000"></data>
+    <data address="/compo/noise/base" value="0.332797"></data>
+    <data address="/compo/noise/variation" value="0.225080"></data>
+    <data address="/compo/overallalpha" value="255.000000"></data>
+    <data address="/compo/vignette/power/base" value="7.652733"></data>
+    <data address="/compo/vignette/radius/base" value="419.614136"></data>
+</preset>
