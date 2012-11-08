@@ -271,12 +271,12 @@
 		292CA0341563DFE6000A7CA6 /* ofxFensterCanvas.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxFensterCanvas.h; sourceTree = "<group>"; };
 		292CA0351563DFE6000A7CA6 /* ofxFensterManager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxFensterManager.cpp; sourceTree = "<group>"; };
 		292CA0361563DFE6000A7CA6 /* ofxFensterManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxFensterManager.h; sourceTree = "<group>"; };
-		292CA0501563EBF7000A7CA6 /* ofxOscUICanvas.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = ofxOscUICanvas.cpp; path = ../../OSCGUI/src/ofxOscUICanvas.cpp; sourceTree = "<group>"; };
-		292CA0511563EBF7000A7CA6 /* ofxOscUICanvas.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ofxOscUICanvas.h; path = ../../OSCGUI/src/ofxOscUICanvas.h; sourceTree = "<group>"; };
-		292CA0521563EBF7000A7CA6 /* PresetManager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = PresetManager.cpp; path = ../../OSCGUI/src/PresetManager.cpp; sourceTree = "<group>"; };
-		292CA0531563EBF7000A7CA6 /* PresetManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PresetManager.h; path = ../../OSCGUI/src/PresetManager.h; sourceTree = "<group>"; };
-		292CA0541563EBF7000A7CA6 /* pystring.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = pystring.cpp; path = ../../OSCGUI/src/pystring.cpp; sourceTree = "<group>"; };
-		292CA0551563EBF7000A7CA6 /* pystring.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = pystring.h; path = ../../OSCGUI/src/pystring.h; sourceTree = "<group>"; };
+		292CA0501563EBF7000A7CA6 /* ofxOscUICanvas.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxOscUICanvas.cpp; sourceTree = "<group>"; };
+		292CA0511563EBF7000A7CA6 /* ofxOscUICanvas.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxOscUICanvas.h; sourceTree = "<group>"; };
+		292CA0521563EBF7000A7CA6 /* PresetManager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PresetManager.cpp; sourceTree = "<group>"; };
+		292CA0531563EBF7000A7CA6 /* PresetManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PresetManager.h; sourceTree = "<group>"; };
+		292CA0541563EBF7000A7CA6 /* pystring.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = pystring.cpp; sourceTree = "<group>"; };
+		292CA0551563EBF7000A7CA6 /* pystring.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pystring.h; sourceTree = "<group>"; };
 		292CA0611563FB5C000A7CA6 /* easing_terms_of_use.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = easing_terms_of_use.html; sourceTree = "<group>"; };
 		292CA0621563FB5C000A7CA6 /* ofxEasing.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxEasing.cpp; sourceTree = "<group>"; };
 		292CA0631563FB5C000A7CA6 /* ofxEasing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxEasing.h; sourceTree = "<group>"; };
@@ -427,8 +427,8 @@
 		297B74B31565ED1100BC6E2E /* ofxOscEventArgs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ofxOscEventArgs.h; sourceTree = "<group>"; };
 		297B74B5156603D000BC6E2E /* BaseScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BaseScene.h; sourceTree = "<group>"; };
 		297B74C01566354B00BC6E2E /* DecayValue.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DecayValue.h; sourceTree = "<group>"; };
-		29B0090C1562AB5900F0ADBB /* ofxSpectrumAnalyzer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = ofxSpectrumAnalyzer.cpp; path = "../../example-visualize/src/ofxSpectrumAnalyzer.cpp"; sourceTree = "<group>"; };
-		29B0090D1562AB5900F0ADBB /* ofxSpectrumAnalyzer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ofxSpectrumAnalyzer.h; path = "../../example-visualize/src/ofxSpectrumAnalyzer.h"; sourceTree = "<group>"; };
+		29B0090C1562AB5900F0ADBB /* ofxSpectrumAnalyzer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxSpectrumAnalyzer.cpp; sourceTree = "<group>"; };
+		29B0090D1562AB5900F0ADBB /* ofxSpectrumAnalyzer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxSpectrumAnalyzer.h; sourceTree = "<group>"; };
 		29B0093D1562ABA400F0ADBB /* fftw3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fftw3.h; sourceTree = "<group>"; };
 		29B0093F1562ABA400F0ADBB /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		29B009411562ABA400F0ADBB /* fftw3f.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = fftw3f.a; sourceTree = "<group>"; };
@@ -1790,7 +1790,7 @@
 		E4B69B4C0A3A1720003C02F2 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0430;
+				LastUpgradeCheck = 0450;
 			};
 			buildConfigurationList = E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "Particles4" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -1983,10 +1983,12 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = NO;
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				OTHER_CPLUSPLUSFLAGS = (
 					"-D__MACOSX_CORE__",
 					"-lpthread",
 				);
+				SDKROOT = macosx10.6;
 			};
 			name = Debug;
 		};
@@ -2012,16 +2014,19 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = NO;
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				OTHER_CPLUSPLUSFLAGS = (
 					"-D__MACOSX_CORE__",
 					"-lpthread",
 				);
+				SDKROOT = macosx10.6;
 			};
 			name = Release;
 		};
 		E4B69B600A3A1757003C02F2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -2119,6 +2124,7 @@
 		E4B69B610A3A1757003C02F2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
